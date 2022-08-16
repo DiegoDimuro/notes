@@ -2,7 +2,6 @@
 https://diegodimuro.github.io/notes/
 
 ## 🧬 Stack used:
-- HTML
-- CSS
 - React
-- Material UI
+- NES.css
+- HTML/CSS/JS
