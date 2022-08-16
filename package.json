@@ -1,7 +1,7 @@
 {
   "name": "notes-app",
   "version": "1.0.0",
-  "homepage": "https://diegodimuro.github.io/notes",
+  "homepage": "https://DiegoDimuro.github.io/notes",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
