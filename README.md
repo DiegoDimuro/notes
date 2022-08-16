@@ -1,7 +1,7 @@
-## Tech Stack-
+## Tech Stack:
 - HTML
 - CSS
-- React Js (JSX)
+- React
 - Material UI
 
 * Run this command to install all dependencies for the project.
