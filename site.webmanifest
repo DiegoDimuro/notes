@@ -6,6 +6,6 @@
     "type": "image/png",
     "sizes": "192x192"
   }],
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "https://diegodimuro.github.io/notes/",
   "display": "standalone"
 }
